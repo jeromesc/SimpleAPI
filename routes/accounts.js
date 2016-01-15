@@ -21,7 +21,7 @@ router.get('/:id', function (req, res, next) {
                             name: "Checking",
                             number: "73-677-11",
                             transit: "0689-1",
-                            balance: 2400.00
+                            balance: 2400.01
                         },
                         {
                             name: "Savings",
